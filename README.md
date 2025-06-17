@@ -17,7 +17,7 @@ The file `sample_data_subject_5.mat` contains sample data used in the study. It 
 
 ## 🧠 Code Overview
 
-The provided MATLAB code demonstrates the complete processing pipeline:
+The provided MATLAB code demonstrates the complete processing pipeline in the file Signal_enhancement.m
 
 1. **Load the data**
 2. **Perform bad channel removal**
